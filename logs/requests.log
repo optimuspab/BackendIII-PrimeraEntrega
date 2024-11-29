@@ -1,0 +1,1 @@
+{"body":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br","connection":"keep-alive","host":"localhost:3000","postman-token":"67f603d3-df25-4038-93ed-f5209db3935d","user-agent":"PostmanRuntime/7.42.0"},"level":"info","message":"Request received","method":"GET","timestamp":"2024-11-18T14:28:13.892Z","url":"/api/users/process-data"}
