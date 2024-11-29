@@ -38,4 +38,4 @@ coverage/
 Thumbs.db
 
 # MongoDB Certificate
-/src/config/X509-cert-6368823534329847455.pem
+/src/config/X509-cert-7040505144619883225.pem
